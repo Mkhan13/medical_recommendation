@@ -14,10 +14,10 @@ This dataset provides a foundation for learning relationships between symptoms a
 ---
 
 ## Review of Relevant Previous Efforts and Literature  
-
+There have been previous efforts to make an AI bot that can make medical diagnoses or treatment recommendations. [This bot](https://hms.harvard.edu/news/ai-system-detailed-diagnostic-reasoning-makes-its-case), created by Harvard researchers, is able to diagnose challenging medical cases and explain its reasoning behind a diagnosis. [This literature review](https://www.sciencedirect.com/science/article/pii/S2772632024000035) reviews different AI algorithms as recommender systems with a focus on integrating AI into medical settings. 
 
 **My Contribution:**  
-
+My project takes these diagnostic tools a step further by including treatment recommendations
 
 ---
 
