@@ -23,6 +23,10 @@ My project takes these diagnostic tools a step further by including treatment re
 
 ## Model Evaluation Process & Metric Selection   
 - **Metrics:**  
+  - Accuracy  
+  - Precision, Recall
+  - F1-score  
+  - Confusion Matrix 
 
 - **Data Splits:** Stratified 80%/10%/10% split for train/validation/test 
 
