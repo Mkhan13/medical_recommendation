@@ -11,9 +11,6 @@ df = pd.read_csv(RAW_PATH, encoding='latin1')  # Load dataset
 df = df[['symptoms','medical_condition','drug_name','side_effects','rx_otc','alcohol','age_group','gender','body_part']]
 df = df.dropna(subset=['symptoms', 'medical_condition']).reset_index(drop=True)
 
-counts = df['medical_condition'].value_counts() # Count samples per class
-df = df[df['medical_condition'].isin(counts[counts >= 2].index)] # Remove classes with only 1 sample
-
 def clean_text(text):
     text = str(text).lower()
     text = text.replace('\n', ' ').replace('\r', ' ')  # newlines
@@ -60,7 +57,7 @@ for index, group_name in enumerate(groups):
 df["group_id"] = df["group_label"].map(label2id)
 
 # Train/val/test split
-train_df, temp_df = train_test_split(df, test_size=0.2, stratify=df['medical_condition'], random_state=42)
+train_df, temp_df = train_test_split(df, test_size=0.2, random_state=42)
 val_df, test_df = train_test_split(temp_df, test_size=0.5, random_state=42)
 
 # Save processed files
