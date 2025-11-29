@@ -1,4 +1,4 @@
 .venv
 .env
 /data
-/results
+/model_output
