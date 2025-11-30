@@ -66,6 +66,8 @@ data/processed/
 
 ### Comparison to Naive Approach  
 
+The naive approach predicts the most common diagnosis for all patients and has an accuracy of 58.5%. The classical ML model uses TF-IDF and logistic regression to learn the patterns between symptoms and different diagnoses. This method improves the accuracy to 65.5% with better precision, recall, and f1-scores. Despite significant feature engineering, the low accuracy is a result of the dataset lacking significant variation across symptoms. 
+
 ---
 
 ## Visual Interface Demo
