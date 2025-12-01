@@ -1,0 +1,201 @@
+Symptom_1,Symptom_2,Symptom_3,Diagnosis,Treatment_Plan,symptoms,id
+Cough,Fever,Sore throat,Healthy,Rest and fluids,"cough, fever, sore throat",3
+Shortness of breath,Fever,Cough,Cold,Rest and fluids,"shortness of breath, fever, cough",1
+Headache,Fever,Shortness of breath,Pneumonia,Hospitalization and medication,"headache, fever, shortness of breath",4
+Fatigue,Sore throat,Body ache,Healthy,Rest and fluids,"fatigue, sore throat, body ache",3
+Shortness of breath,Fatigue,Headache,Healthy,Rest and fluids,"shortness of breath, fatigue, headache",3
+Cough,Sore throat,Headache,Bronchitis,Hospitalization and medication,"cough, sore throat, headache",0
+Body ache,Fatigue,Fever,Healthy,Rest and fluids,"body ache, fatigue, fever",3
+Headache,Shortness of breath,Runny nose,Healthy,Rest and fluids,"headache, shortness of breath, runny nose",3
+Fatigue,Fever,Shortness of breath,Healthy,Rest and fluids,"fatigue, fever, shortness of breath",3
+Sore throat,Runny nose,Headache,Healthy,Rest and fluids,"sore throat, runny nose, headache",3
+Shortness of breath,Body ache,Fatigue,Healthy,Rest and fluids,"shortness of breath, body ache, fatigue",3
+Sore throat,Fatigue,Fever,Flu,Medication and rest,"sore throat, fatigue, fever",2
+Runny nose,Fatigue,Shortness of breath,Healthy,Rest and fluids,"runny nose, fatigue, shortness of breath",3
+Fever,Sore throat,Shortness of breath,Healthy,Rest and fluids,"fever, sore throat, shortness of breath",3
+Headache,Shortness of breath,Body ache,Healthy,Rest and fluids,"headache, shortness of breath, body ache",3
+Shortness of breath,Sore throat,Cough,Healthy,Rest and fluids,"shortness of breath, sore throat, cough",3
+Shortness of breath,Cough,Body ache,Bronchitis,Hospitalization and medication,"shortness of breath, cough, body ache",0
+Fever,Body ache,Headache,Flu,Medication and rest,"fever, body ache, headache",2
+Runny nose,Body ache,Shortness of breath,Cold,Rest and fluids,"runny nose, body ache, shortness of breath",1
+Fever,Cough,Shortness of breath,Flu,Medication and rest,"fever, cough, shortness of breath",2
+Sore throat,Fatigue,Runny nose,Healthy,Rest and fluids,"sore throat, fatigue, runny nose",3
+Fever,Sore throat,Body ache,Healthy,Rest and fluids,"fever, sore throat, body ache",3
+Cough,Shortness of breath,Body ache,Healthy,Rest and fluids,"cough, shortness of breath, body ache",3
+Fatigue,Fever,Cough,Healthy,Rest and fluids,"fatigue, fever, cough",3
+Cough,Body ache,Sore throat,Bronchitis,Hospitalization and medication,"cough, body ache, sore throat",0
+Fever,Shortness of breath,Body ache,Flu,Medication and rest,"fever, shortness of breath, body ache",2
+Cough,Fever,Sore throat,Flu,Medication and rest,"cough, fever, sore throat",2
+Runny nose,Sore throat,Body ache,Healthy,Rest and fluids,"runny nose, sore throat, body ache",3
+Sore throat,Headache,Body ache,Healthy,Rest and fluids,"sore throat, headache, body ache",3
+Cough,Sore throat,Fever,Flu,Medication and rest,"cough, sore throat, fever",2
+Body ache,Runny nose,Cough,Healthy,Rest and fluids,"body ache, runny nose, cough",3
+Fatigue,Headache,Sore throat,Healthy,Rest and fluids,"fatigue, headache, sore throat",3
+Sore throat,Headache,Runny nose,Cold,Rest and fluids,"sore throat, headache, runny nose",1
+Body ache,Fever,Cough,Pneumonia,Hospitalization and medication,"body ache, fever, cough",4
+Fever,Runny nose,Sore throat,Healthy,Rest and fluids,"fever, runny nose, sore throat",3
+Shortness of breath,Runny nose,Headache,Cold,Rest and fluids,"shortness of breath, runny nose, headache",1
+Shortness of breath,Sore throat,Headache,Healthy,Rest and fluids,"shortness of breath, sore throat, headache",3
+Headache,Fatigue,Runny nose,Healthy,Rest and fluids,"headache, fatigue, runny nose",3
+Shortness of breath,Cough,Fever,Bronchitis,Hospitalization and medication,"shortness of breath, cough, fever",0
+Runny nose,Body ache,Headache,Healthy,Rest and fluids,"runny nose, body ache, headache",3
+Fever,Body ache,Fatigue,Healthy,Rest and fluids,"fever, body ache, fatigue",3
+Shortness of breath,Fatigue,Fever,Flu,Medication and rest,"shortness of breath, fatigue, fever",2
+Cough,Shortness of breath,Headache,Bronchitis,Hospitalization and medication,"cough, shortness of breath, headache",0
+Sore throat,Fatigue,Body ache,Healthy,Rest and fluids,"sore throat, fatigue, body ache",3
+Shortness of breath,Fever,Fatigue,Healthy,Rest and fluids,"shortness of breath, fever, fatigue",3
+Fatigue,Shortness of breath,Runny nose,Healthy,Rest and fluids,"fatigue, shortness of breath, runny nose",3
+Fatigue,Body ache,Cough,Healthy,Rest and fluids,"fatigue, body ache, cough",3
+Headache,Fever,Shortness of breath,Healthy,Rest and fluids,"headache, fever, shortness of breath",3
+Body ache,Sore throat,Runny nose,Healthy,Rest and fluids,"body ache, sore throat, runny nose",3
+Shortness of breath,Headache,Body ache,Healthy,Rest and fluids,"shortness of breath, headache, body ache",3
+Fever,Fatigue,Runny nose,Healthy,Rest and fluids,"fever, fatigue, runny nose",3
+Runny nose,Body ache,Shortness of breath,Healthy,Rest and fluids,"runny nose, body ache, shortness of breath",3
+Cough,Fever,Fatigue,Flu,Medication and rest,"cough, fever, fatigue",2
+Sore throat,Headache,Runny nose,Healthy,Rest and fluids,"sore throat, headache, runny nose",3
+Shortness of breath,Body ache,Fatigue,Healthy,Rest and fluids,"shortness of breath, body ache, fatigue",3
+Headache,Sore throat,Shortness of breath,Healthy,Rest and fluids,"headache, sore throat, shortness of breath",3
+Headache,Fatigue,Shortness of breath,Healthy,Rest and fluids,"headache, fatigue, shortness of breath",3
+Shortness of breath,Headache,Cough,Healthy,Rest and fluids,"shortness of breath, headache, cough",3
+Cough,Shortness of breath,Fever,Bronchitis,Hospitalization and medication,"cough, shortness of breath, fever",0
+Fatigue,Cough,Fever,Healthy,Rest and fluids,"fatigue, cough, fever",3
+Headache,Cough,Body ache,Bronchitis,Hospitalization and medication,"headache, cough, body ache",0
+Headache,Cough,Runny nose,Bronchitis,Hospitalization and medication,"headache, cough, runny nose",0
+Fatigue,Cough,Runny nose,Cold,Rest and fluids,"fatigue, cough, runny nose",1
+Fatigue,Shortness of breath,Fever,Healthy,Rest and fluids,"fatigue, shortness of breath, fever",3
+Fever,Body ache,Shortness of breath,Healthy,Rest and fluids,"fever, body ache, shortness of breath",3
+Fever,Fatigue,Shortness of breath,Flu,Medication and rest,"fever, fatigue, shortness of breath",2
+Cough,Shortness of breath,Body ache,Bronchitis,Hospitalization and medication,"cough, shortness of breath, body ache",0
+Runny nose,Headache,Body ache,Healthy,Rest and fluids,"runny nose, headache, body ache",3
+Fever,Cough,Sore throat,Flu,Medication and rest,"fever, cough, sore throat",2
+Headache,Fatigue,Fever,Healthy,Rest and fluids,"headache, fatigue, fever",3
+Headache,Fatigue,Sore throat,Healthy,Rest and fluids,"headache, fatigue, sore throat",3
+Fatigue,Fever,Cough,Cold,Rest and fluids,"fatigue, fever, cough",1
+Runny nose,Fever,Sore throat,Flu,Medication and rest,"runny nose, fever, sore throat",2
+Cough,Body ache,Fever,Bronchitis,Hospitalization and medication,"cough, body ache, fever",0
+Body ache,Cough,Fever,Flu,Medication and rest,"body ache, cough, fever",2
+Cough,Fatigue,Headache,Healthy,Rest and fluids,"cough, fatigue, headache",3
+Fatigue,Headache,Sore throat,Healthy,Rest and fluids,"fatigue, headache, sore throat",3
+Shortness of breath,Fatigue,Runny nose,Healthy,Rest and fluids,"shortness of breath, fatigue, runny nose",3
+Cough,Headache,Runny nose,Healthy,Rest and fluids,"cough, headache, runny nose",3
+Fever,Runny nose,Shortness of breath,Flu,Medication and rest,"fever, runny nose, shortness of breath",2
+Cough,Fatigue,Body ache,Bronchitis,Hospitalization and medication,"cough, fatigue, body ache",0
+Runny nose,Sore throat,Fatigue,Healthy,Rest and fluids,"runny nose, sore throat, fatigue",3
+Fatigue,Sore throat,Body ache,Healthy,Rest and fluids,"fatigue, sore throat, body ache",3
+Sore throat,Cough,Body ache,Healthy,Rest and fluids,"sore throat, cough, body ache",3
+Shortness of breath,Fatigue,Runny nose,Healthy,Rest and fluids,"shortness of breath, fatigue, runny nose",3
+Runny nose,Cough,Shortness of breath,Healthy,Rest and fluids,"runny nose, cough, shortness of breath",3
+Sore throat,Fatigue,Fever,Flu,Medication and rest,"sore throat, fatigue, fever",2
+Runny nose,Headache,Fever,Healthy,Rest and fluids,"runny nose, headache, fever",3
+Headache,Body ache,Shortness of breath,Healthy,Rest and fluids,"headache, body ache, shortness of breath",3
+Cough,Body ache,Fatigue,Bronchitis,Hospitalization and medication,"cough, body ache, fatigue",0
+Fever,Body ache,Sore throat,Healthy,Rest and fluids,"fever, body ache, sore throat",3
+Sore throat,Cough,Runny nose,Bronchitis,Hospitalization and medication,"sore throat, cough, runny nose",0
+Runny nose,Shortness of breath,Sore throat,Healthy,Rest and fluids,"runny nose, shortness of breath, sore throat",3
+Cough,Runny nose,Body ache,Bronchitis,Hospitalization and medication,"cough, runny nose, body ache",0
+Shortness of breath,Body ache,Headache,Healthy,Rest and fluids,"shortness of breath, body ache, headache",3
+Body ache,Sore throat,Shortness of breath,Healthy,Rest and fluids,"body ache, sore throat, shortness of breath",3
+Cough,Shortness of breath,Runny nose,Healthy,Rest and fluids,"cough, shortness of breath, runny nose",3
+Body ache,Cough,Runny nose,Bronchitis,Hospitalization and medication,"body ache, cough, runny nose",0
+Fatigue,Sore throat,Shortness of breath,Healthy,Rest and fluids,"fatigue, sore throat, shortness of breath",3
+Headache,Cough,Shortness of breath,Bronchitis,Hospitalization and medication,"headache, cough, shortness of breath",0
+Fever,Cough,Sore throat,Flu,Medication and rest,"fever, cough, sore throat",2
+Cough,Sore throat,Body ache,Bronchitis,Hospitalization and medication,"cough, sore throat, body ache",0
+Cough,Fever,Fatigue,Healthy,Rest and fluids,"cough, fever, fatigue",3
+Runny nose,Fever,Headache,Flu,Medication and rest,"runny nose, fever, headache",2
+Runny nose,Shortness of breath,Fever,Healthy,Rest and fluids,"runny nose, shortness of breath, fever",3
+Cough,Headache,Shortness of breath,Bronchitis,Hospitalization and medication,"cough, headache, shortness of breath",0
+Body ache,Sore throat,Fever,Cold,Rest and fluids,"body ache, sore throat, fever",1
+Shortness of breath,Sore throat,Headache,Cold,Rest and fluids,"shortness of breath, sore throat, headache",1
+Sore throat,Cough,Headache,Bronchitis,Hospitalization and medication,"sore throat, cough, headache",0
+Runny nose,Headache,Sore throat,Healthy,Rest and fluids,"runny nose, headache, sore throat",3
+Fatigue,Shortness of breath,Runny nose,Healthy,Rest and fluids,"fatigue, shortness of breath, runny nose",3
+Fever,Runny nose,Headache,Flu,Medication and rest,"fever, runny nose, headache",2
+Body ache,Fatigue,Shortness of breath,Healthy,Rest and fluids,"body ache, fatigue, shortness of breath",3
+Fever,Fatigue,Cough,Bronchitis,Hospitalization and medication,"fever, fatigue, cough",0
+Fever,Body ache,Fatigue,Flu,Medication and rest,"fever, body ache, fatigue",2
+Shortness of breath,Cough,Body ache,Bronchitis,Hospitalization and medication,"shortness of breath, cough, body ache",0
+Fever,Runny nose,Body ache,Flu,Medication and rest,"fever, runny nose, body ache",2
+Body ache,Headache,Shortness of breath,Healthy,Rest and fluids,"body ache, headache, shortness of breath",3
+Shortness of breath,Runny nose,Fever,Flu,Medication and rest,"shortness of breath, runny nose, fever",2
+Fever,Runny nose,Shortness of breath,Healthy,Rest and fluids,"fever, runny nose, shortness of breath",3
+Runny nose,Body ache,Fever,Cold,Rest and fluids,"runny nose, body ache, fever",1
+Body ache,Sore throat,Fatigue,Healthy,Rest and fluids,"body ache, sore throat, fatigue",3
+Body ache,Fatigue,Shortness of breath,Healthy,Rest and fluids,"body ache, fatigue, shortness of breath",3
+Cough,Shortness of breath,Fever,Bronchitis,Hospitalization and medication,"cough, shortness of breath, fever",0
+Fatigue,Body ache,Fever,Cold,Rest and fluids,"fatigue, body ache, fever",1
+Cough,Shortness of breath,Fever,Flu,Medication and rest,"cough, shortness of breath, fever",2
+Runny nose,Sore throat,Headache,Healthy,Rest and fluids,"runny nose, sore throat, headache",3
+Body ache,Runny nose,Fatigue,Healthy,Rest and fluids,"body ache, runny nose, fatigue",3
+Shortness of breath,Sore throat,Runny nose,Healthy,Rest and fluids,"shortness of breath, sore throat, runny nose",3
+Fatigue,Runny nose,Cough,Healthy,Rest and fluids,"fatigue, runny nose, cough",3
+Body ache,Sore throat,Headache,Healthy,Rest and fluids,"body ache, sore throat, headache",3
+Cough,Fever,Runny nose,Bronchitis,Hospitalization and medication,"cough, fever, runny nose",0
+Sore throat,Shortness of breath,Fatigue,Healthy,Rest and fluids,"sore throat, shortness of breath, fatigue",3
+Cough,Fever,Fatigue,Healthy,Rest and fluids,"cough, fever, fatigue",3
+Fatigue,Cough,Fever,Bronchitis,Hospitalization and medication,"fatigue, cough, fever",0
+Fatigue,Fever,Runny nose,Flu,Medication and rest,"fatigue, fever, runny nose",2
+Shortness of breath,Fatigue,Cough,Bronchitis,Hospitalization and medication,"shortness of breath, fatigue, cough",0
+Cough,Shortness of breath,Runny nose,Bronchitis,Hospitalization and medication,"cough, shortness of breath, runny nose",0
+Shortness of breath,Sore throat,Body ache,Healthy,Rest and fluids,"shortness of breath, sore throat, body ache",3
+Body ache,Fever,Headache,Flu,Medication and rest,"body ache, fever, headache",2
+Shortness of breath,Fatigue,Runny nose,Healthy,Rest and fluids,"shortness of breath, fatigue, runny nose",3
+Fever,Runny nose,Headache,Healthy,Rest and fluids,"fever, runny nose, headache",3
+Body ache,Cough,Fatigue,Bronchitis,Hospitalization and medication,"body ache, cough, fatigue",0
+Cough,Headache,Shortness of breath,Cold,Rest and fluids,"cough, headache, shortness of breath",1
+Body ache,Fever,Shortness of breath,Healthy,Rest and fluids,"body ache, fever, shortness of breath",3
+Headache,Runny nose,Cough,Bronchitis,Hospitalization and medication,"headache, runny nose, cough",0
+Headache,Fatigue,Runny nose,Healthy,Rest and fluids,"headache, fatigue, runny nose",3
+Sore throat,Body ache,Fatigue,Healthy,Rest and fluids,"sore throat, body ache, fatigue",3
+Sore throat,Fatigue,Shortness of breath,Cold,Rest and fluids,"sore throat, fatigue, shortness of breath",1
+Fatigue,Headache,Runny nose,Healthy,Rest and fluids,"fatigue, headache, runny nose",3
+Headache,Cough,Shortness of breath,Cold,Rest and fluids,"headache, cough, shortness of breath",1
+Fatigue,Cough,Body ache,Healthy,Rest and fluids,"fatigue, cough, body ache",3
+Shortness of breath,Fatigue,Headache,Healthy,Rest and fluids,"shortness of breath, fatigue, headache",3
+Cough,Sore throat,Shortness of breath,Healthy,Rest and fluids,"cough, sore throat, shortness of breath",3
+Body ache,Fever,Cough,Flu,Medication and rest,"body ache, fever, cough",2
+Sore throat,Headache,Cough,Healthy,Rest and fluids,"sore throat, headache, cough",3
+Fatigue,Runny nose,Fever,Healthy,Rest and fluids,"fatigue, runny nose, fever",3
+Sore throat,Shortness of breath,Fatigue,Healthy,Rest and fluids,"sore throat, shortness of breath, fatigue",3
+Shortness of breath,Body ache,Headache,Healthy,Rest and fluids,"shortness of breath, body ache, headache",3
+Headache,Cough,Runny nose,Bronchitis,Hospitalization and medication,"headache, cough, runny nose",0
+Runny nose,Fatigue,Cough,Healthy,Rest and fluids,"runny nose, fatigue, cough",3
+Fatigue,Body ache,Headache,Healthy,Rest and fluids,"fatigue, body ache, headache",3
+Fever,Shortness of breath,Fatigue,Flu,Medication and rest,"fever, shortness of breath, fatigue",2
+Headache,Sore throat,Fatigue,Healthy,Rest and fluids,"headache, sore throat, fatigue",3
+Headache,Fatigue,Fever,Flu,Medication and rest,"headache, fatigue, fever",2
+Fatigue,Fever,Runny nose,Pneumonia,Hospitalization and medication,"fatigue, fever, runny nose",4
+Headache,Fever,Sore throat,Pneumonia,Hospitalization and medication,"headache, fever, sore throat",4
+Shortness of breath,Body ache,Sore throat,Healthy,Rest and fluids,"shortness of breath, body ache, sore throat",3
+Headache,Runny nose,Fever,Cold,Rest and fluids,"headache, runny nose, fever",1
+Fever,Fatigue,Runny nose,Healthy,Rest and fluids,"fever, fatigue, runny nose",3
+Headache,Shortness of breath,Body ache,Healthy,Rest and fluids,"headache, shortness of breath, body ache",3
+Headache,Shortness of breath,Sore throat,Healthy,Rest and fluids,"headache, shortness of breath, sore throat",3
+Cough,Runny nose,Body ache,Healthy,Rest and fluids,"cough, runny nose, body ache",3
+Sore throat,Runny nose,Fever,Healthy,Rest and fluids,"sore throat, runny nose, fever",3
+Cough,Fever,Body ache,Bronchitis,Hospitalization and medication,"cough, fever, body ache",0
+Body ache,Runny nose,Fever,Healthy,Rest and fluids,"body ache, runny nose, fever",3
+Body ache,Sore throat,Fever,Flu,Medication and rest,"body ache, sore throat, fever",2
+Headache,Fatigue,Sore throat,Cold,Rest and fluids,"headache, fatigue, sore throat",1
+Cough,Body ache,Headache,Healthy,Rest and fluids,"cough, body ache, headache",3
+Body ache,Shortness of breath,Cough,Cold,Rest and fluids,"body ache, shortness of breath, cough",1
+Shortness of breath,Fever,Fatigue,Flu,Medication and rest,"shortness of breath, fever, fatigue",2
+Runny nose,Fatigue,Headache,Healthy,Rest and fluids,"runny nose, fatigue, headache",3
+Cough,Body ache,Fatigue,Healthy,Rest and fluids,"cough, body ache, fatigue",3
+Fatigue,Fever,Headache,Flu,Medication and rest,"fatigue, fever, headache",2
+Fever,Body ache,Headache,Healthy,Rest and fluids,"fever, body ache, headache",3
+Cough,Sore throat,Shortness of breath,Healthy,Rest and fluids,"cough, sore throat, shortness of breath",3
+Headache,Cough,Shortness of breath,Healthy,Rest and fluids,"headache, cough, shortness of breath",3
+Fever,Headache,Body ache,Healthy,Rest and fluids,"fever, headache, body ache",3
+Sore throat,Headache,Shortness of breath,Healthy,Rest and fluids,"sore throat, headache, shortness of breath",3
+Cough,Sore throat,Headache,Bronchitis,Hospitalization and medication,"cough, sore throat, headache",0
+Headache,Shortness of breath,Cough,Bronchitis,Hospitalization and medication,"headache, shortness of breath, cough",0
+Cough,Headache,Body ache,Healthy,Rest and fluids,"cough, headache, body ache",3
+Fatigue,Cough,Headache,Bronchitis,Hospitalization and medication,"fatigue, cough, headache",0
+Fever,Shortness of breath,Headache,Healthy,Rest and fluids,"fever, shortness of breath, headache",3
+Fever,Runny nose,Sore throat,Healthy,Rest and fluids,"fever, runny nose, sore throat",3
+Sore throat,Headache,Cough,Healthy,Rest and fluids,"sore throat, headache, cough",3
+Shortness of breath,Headache,Fatigue,Healthy,Rest and fluids,"shortness of breath, headache, fatigue",3
+Body ache,Cough,Headache,Healthy,Rest and fluids,"body ache, cough, headache",3
+Runny nose,Fever,Headache,Healthy,Rest and fluids,"runny nose, fever, headache",3
+Shortness of breath,Cough,Headache,Bronchitis,Hospitalization and medication,"shortness of breath, cough, headache",0

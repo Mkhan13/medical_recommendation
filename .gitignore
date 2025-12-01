@@ -1,6 +1,5 @@
 .venv
 .env
-/data
 /model_output
 /bert_model
 __pycache__/
