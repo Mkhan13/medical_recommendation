@@ -3,3 +3,5 @@
 /data
 /model_output
 /bert_model
+__pycache__/
+__init__.py
