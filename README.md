@@ -66,24 +66,27 @@ data/processed/
 
 ### Comparison to Naive Approach  
 
-The naive approach predicts the most common diagnosis for all patients and has an accuracy of 58.5%. The classical ML model uses TF-IDF and logistic regression to learn the patterns between symptoms and different diagnoses. This method improves the accuracy to 65.5% with better precision, recall, and f1-scores. Despite significant feature engineering, the low accuracy is a result of the dataset lacking significant variation across symptoms. 
-
+The naive approach predicts the most common diagnosis for all patients and has an accuracy of 58.5%. The classical ML model uses TF-IDF and logistic regression to learn the patterns between symptoms and different diagnoses. This method improves the accuracy to 65.5% with better precision, recall, and f1-scores. 
 ---
 
 ## Visual Interface Demo
+<img width="887" height="627" alt="Screenshot 2025-12-01 at 6 20 20 PM" src="https://github.com/user-attachments/assets/25be6452-eaac-4be8-8043-26f9a5a4e0b1" />
 
 
 Video demo of the project can be found here  
-Streamlit site can be found here
+Streamlit site can be found [here](https://medical-app-963698787646.us-central1.run.app/)
 
 ---
 
 ## Results and Conclusions  
+Across the three evaluated approaches, the classical machine learning model achieved the strongest overall performance, with an accuracy of 65.5% and has the highest precision, recall, and F1-score. The naive baseline always predicts the most common diagnosis and achieved 58.5% accuracy, while the deep learning model reached an accuracy of 61.5% but it was not good at generalizing because of the short symptom descriptions. The classical ML model benefited slightly from TF-IDF’s ability to extract informative patterns from limited text, which allowed it to capture distinctions the deep learning model could not learn effectively with the available data.
+
+The best perfoming model, the classical ml approach, still has a relatively low accuracy due to limitations in the dataset. Many symptom descriptions lacked detail or variation which constrained the amount of meaningful signal the models could learn. Despite this, the classical ML approach demonstrated the most reliable and interpretable performance, making it the preferred choice for this task. These results suggest that model performance could improve significantly with more descriptive symptom descriptions or additional features.
 
 ---
-
+ 
 ## Ethics Statement  
-
+This project is intended for educational and research purposes only and should not be used to assess or diagnose illnesses. The model's outputs are not a professional diagnosis and should not replace professional care or clinical advice. Please seek medical attention if you are feeling sick. Any real-world application of this tool should undergo ethical review and validation to ensure accuracy, user safety, and data privacy.
 
 ---
 
@@ -100,5 +103,5 @@ Streamlit site can be found here
 `streamlit run main.py`  
 The app will open in your browser  
 
-6. INSTRUCTIONS
+6. Write sickness symptoms in the provided area as a comma separated list
 
