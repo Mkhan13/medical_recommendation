@@ -93,8 +93,8 @@ This project is intended for educational and research purposes only and should n
 ## Instructions on How to Run the Code
 
 1. Clone the Repository  
-`git clone https://github.com/Mkhan13/deep_learning_medical_recommendation.git`  
-`cd deep_learning_medical_recommendation`
+`git clone https://github.com/Mkhan13/medical_recommendation.git`  
+`cd medical_recommendation`
 
 3. Install Dependencies  
 `pip install -r requirements.txt`
