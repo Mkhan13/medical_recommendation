@@ -1,4 +1,4 @@
-# Deep Learning Medical Recommendation System
+# Medical Treatment Recommendation System
 ## Problem
 People often struggle to interpret their symptoms and determine the appropriate next step for care. Searching online can lead to incorrect guidance, unnecessary fear or alarm, or delays in seeking treatment for something major. The goal of this project is to to build an AI symptom recommendation system that converts a user’s symptom description into a plausible condition and a recommended action to take. The goal is not to provide medical diagnosis in any capacity, but to identify whether symptoms align with common conditions and identify when immediate medical intervention may be necessary.
 
